@@ -1,38 +1,32 @@
-# Hi, I'm Paul Desmond 👋
+# Paul Desmond
 
-**MS in Artificial Intelligence | DevOps & ML Infrastructure Engineer**
+MS in Artificial Intelligence (Maryville University, 2025). I spent ten years teaching across China, Guatemala, and Kenya, and I now build data and machine learning projects. I am looking for Data Analyst, Data Engineer, or AI/ML Engineer work, remote or in the NYC area, with a preference for EdTech.
 
-🔧 Building production monitoring systems with Kubernetes, Prometheus, and Grafana  
-📊 ML expertise: Fraud detection (0.93 AUC), NLP, Computer Vision  
-🌍 Former international educator turned technical problem-solver
+The teaching background is the part most data candidates do not have. A decade in classrooms means I have worked for years with the academic, behavioral, and attendance data that education products run on, and I can explain a model to people who do not build them.
 
-## 🚀 Featured Projects
+## Featured projects
 
-**[Docker Monitoring Stack](https://github.com/SamOryeJack/docker-monitoring-stack)** - Production Kubernetes monitoring  
-- 1,145 metrics tracked across 14 containers
-- Cost-optimized: ~$5 infrastructure cost
-- Tech: Docker, Prometheus, Grafana, Kubernetes
+### IEEE-CIS Fraud Detection
+github.com/SamOryeJack/IEEE-Fraud-Detection
+LightGBM classifier on 590,000 transactions across 432 features. Reached 0.93 private AUC on the Kaggle leaderboard after roughly 25 iterations using Hyperopt tuning and SHAP feature analysis. Maryville capstone, team project.
 
-**[Fraud Detection](https://github.com/SamOryeJack/IEEE-Fraud-Detection)** - Kaggle Competition (Top 10%)  
-- 0.93 AUC on credit card fraud detection
-- LightGBM + feature engineering + SHAP explainability
+### High School Analytics Application
+github.com/SamOryeJack/Education-Data
+DuckDB star schema with 17 tables and 318,532 rows covering 636 students across four academic years. Streamlit and Plotly dashboard built on the ESSA five-indicator framework, with FERPA small-cell suppression on any group under 10.
 
-**[ML/AI Portfolio](https://github.com/SamOryeJack/AI)** - NLP, Computer Vision, Text Mining  
-- 77% accuracy sentiment analysis (160K tweets)
-- CNN image classifier, text mining pipeline
+### GPU Infrastructure Monitoring Stack
+github.com/SamOryeJack/docker-monitoring-stack
+Fourteen-container Docker Compose stack on GCP tracking 1,145 metrics through Prometheus, Grafana, cAdvisor, and the NVIDIA DCGM exporter. Query times under 40ms at roughly $5 total cloud cost.
 
-## 💼 Currently Seeking
+## Tech stack
 
-DevOps Engineer, ML Infrastructure Engineer, or SRE roles in the NYC area or remote.
+Languages and querying: Python, SQL, Bash
+Machine learning and data: LightGBM, scikit-learn, TensorFlow, Keras, pandas, NumPy
+Data engineering and analytics: DuckDB, Streamlit, Plotly, ETL pipelines
+Cloud and containers: Docker, Docker Compose, GCP, AWS, Terraform, Prometheus, Grafana
 
-## 🛠️ Tech Stack
+## Contact
 
-**Infrastructure:** Kubernetes, Docker, Prometheus, Grafana, Terraform, AWS, GCP  
-**ML/AI:** Python, TensorFlow, PyTorch, Keras, scikit-learn, LightGBM  
-**Data:** pandas, NumPy, SQL, ETL pipelines
-
-## 📫 Let's Connect
-
-LinkedIn: [linkedin.com/in/paul-desmond-155495219](https://www.linkedin.com/in/paul-desmond-155495219/)  
-Email: paul.desmond@outlook.com  
-Location: New York, NY
+LinkedIn: linkedin.com/in/paul-desmond-155495219
+Email: paul.desmond@outlook.com
+Location: NYC area, open to remote
