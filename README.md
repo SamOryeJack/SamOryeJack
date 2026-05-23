@@ -24,7 +24,7 @@ EfficientNetB0 transfer-learning model that sorts photos into 67 indoor-scene ca
 
 ### GPU Infrastructure Monitoring Stack
 github.com/SamOryeJack/docker-monitoring-stack
-Fourteen-container Docker Compose stack on GCP tracking 1,145 metrics through Prometheus, Grafana, cAdvisor, and the NVIDIA DCGM exporter. Query times under 40ms at roughly $5 total cloud cost.
+Fourteen-container Docker Compose stack on GCP tracking 1,145 metrics through Prometheus, Grafana, cAdvisor, and Node Exporter, with a custom simulator generating GPU workload metrics. Query times around 40ms at roughly $5 total cloud cost.
 
 ## Tech stack
 
