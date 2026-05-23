@@ -31,7 +31,7 @@ Fourteen-container Docker Compose stack on GCP tracking 1,145 metrics through Pr
 Languages and querying: Python, SQL, Bash
 Machine learning and data: LightGBM, scikit-learn, TensorFlow, Keras, pandas, NumPy
 Data engineering and analytics: DuckDB, Streamlit, Plotly, ETL pipelines
-Cloud and containers: Docker, Docker Compose, GCP, AWS, Terraform, Prometheus, Grafana
+Cloud and containers: Docker, Docker Compose, GCP, AWS, Terraform, Prometheus, Grafana, Gradio, Hugging Face Spaces
 
 ## Contact
 
